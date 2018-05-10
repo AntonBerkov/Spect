@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Spect:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Spect_jar</output-path>
+    <root id="archive" name="Spect.jar">
+      <element id="module-output" name="Spect" />
+    </root>
+  </artifact>
+</component>
